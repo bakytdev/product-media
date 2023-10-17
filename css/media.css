@@ -120,6 +120,22 @@
     }
 }
 
+@media (max-width: 420px) {
+    .join-img {
+        width: 90%;
+    }
+
+    .user-block-text h3 {
+        width: 90%;
+        padding: 10px;
+    }
+
+
+    .footer-input input {
+        width: 90%;
+    }
+}
+
 @media (max-width: 450px) {
     .hero-text h1,
     .hero-text p {
